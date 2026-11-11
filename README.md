@@ -1,6 +1,5 @@
 - "Plot twist: I hated school as a kid, fell in love with studying in my mid-40s, and now I'm spending my retirement deep-diving into IT and cybersecurity. While people my age are pruning roses or restoring classic cars, I'm hunting vulnerabilities and breaking virtual machines. Better late than never!"
 - ### 👋 Hi, I’m @brunogueuning
-- 👀 I’m interested in data science..
 - 🌱 I’m currently learning Cybersecurity..
 - 📫 How to reach me bruno.gueuning@gmail.com...
 - "Plot twist: I hated school as a kid, fell in love with studying in my mid-40s, and now I'm spending my retirement deep-diving into IT and cybersecurity. While people my age are pruning roses or restoring classic cars, I'm hunting vulnerabilities and breaking virtual machines. Better late than never!"
